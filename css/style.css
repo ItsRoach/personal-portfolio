@@ -70,7 +70,7 @@ ul {
 }
 .section-title h3 {
     font-weight: 700;
-    color: #ff8c05;
+    color: #BFF035;
 }
 .section-title.section-title-left {
     text-align: left;
@@ -80,7 +80,7 @@ ul {
     text-align: left;
 }
 .title-resume h3 {
-    color: #ff8c05;
+    color: #BFF035;
     font-size: 22px;
     font-weight: 300;
     display: inline-block;
@@ -93,7 +93,7 @@ ul {
     font-weight: 900;
 }
 .title-resume h2 span {
-    color: #ff8c05;
+    color: #BFF035;
 }
 
 .box-content {
@@ -104,10 +104,10 @@ ul {
 
 /*button default*/
 .button {
-    background: #ff8c05;
-    background: -moz-linear-gradient(-45deg, #ff8c05 0%, #d61a5e 100%);
-    background: -webkit-linear-gradient(-45deg, #ff8c05 0%, #d61a5e 100%);
-    background: linear-gradient(135deg, #ff8c05 0%, #d61a5e 100%);
+    background: #BFF035;
+    background: -moz-linear-gradient(-45deg, #BFF035 0%, #FF1E4A 100%);
+    background: -webkit-linear-gradient(-45deg, #BFF035 0%, #FF1E4A 100%);
+    background: linear-gradient(135deg, #BFF035 0%, #FF1E4A 100%);
     color: #fff;
     border: 0;
     margin-top: 50px;
@@ -153,7 +153,7 @@ ul {
 }
 .navbar .navbar-brand h2 {
     font-weight: 900;
-    background: -webkit-linear-gradient(right, #d61a5e, #ff8c05);
+    background: -webkit-linear-gradient(right, #FF1E4A, #BFF035);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -197,7 +197,7 @@ ul {
 .home-intro .intro-content .intro-caption h2 {
     font-size: 70px;
     font-weight: 900;
-    background: -webkit-linear-gradient(right, #d61a5e, #ff8c05);
+    background: -webkit-linear-gradient(right, #FF1E4A, #BFF035);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     line-height: 87px;
@@ -324,17 +324,17 @@ ul {
     background: #414141;
 }
 .resume .my-skill .content-right .progress .progress-bar {
-    background: #d61a5e;
-    background: -moz-linear-gradient(left, #d61a5e 0%, #ff8c05 100%);
-    background: -webkit-linear-gradient(left, #d61a5e 0%, #ff8c05 100%);
-    background: linear-gradient(to right, #d61a5e 0%, #ff8c05 100%);
+    background: #FF1E4A;
+    background: -moz-linear-gradient(left, #FF1E4A 0%, #BFF035 100%);
+    background: -webkit-linear-gradient(left, #FF1E4A 0%, #BFF035 100%);
+    background: linear-gradient(to right, #FF1E4A 0%, #BFF035 100%);
 }
 .resume .owl-theme .owl-dots .owl-dot span {
     margin: 5px 10px;
     background: #515151;
 }
 .resume .owl-theme .owl-dots .owl-dot.active span {
-    background: #ff8c05;
+    background: #BFF035;
 }
 .resume .owl-theme .owl-nav.disabled + .owl-dots {
     margin-top: 50px;
@@ -374,14 +374,14 @@ ul {
     z-index: -1000;
 }
 .portfolio .portfolio-filter-menu ul li span:hover {
-    color: #ff8c05;
+    color: #BFF035;
 }
 .portfolio .portfolio-filter-menu ul li span:hover::after {
     height: 10px;
     background: #525252;
 }
 .portfolio .portfolio-filter-menu ul li.active {
-    color: #ff8c05;
+    color: #BFF035;
 }
 .portfolio .content-image {
     position: relative;
@@ -396,10 +396,10 @@ ul {
     right: 0;
     width: 100%;
     height: 100%;
-    background: #ff8c05;
-    background: -moz-linear-gradient(-45deg, #ff8c05 0%, #d61a5e 100%);
-    background: -webkit-linear-gradient(-45deg, #ff8c05 0%, #d61a5e 100%);
-    background: linear-gradient(135deg, #ff8c05 0%, #d61a5e 100%);
+    background: #BFF035;
+    background: -moz-linear-gradient(-45deg, #BFF035 0%, #FF1E4A 100%);
+    background: -webkit-linear-gradient(-45deg, #BFF035 0%, #FF1E4A 100%);
+    background: linear-gradient(135deg, #BFF035 0%, #FF1E4A 100%);
     animation: titles 600ms cubic-bezier(0.45, 0.81, 0.83, 0.18) forwards;
     transform: translateY(101%);
     animation-delay: .1s;
@@ -414,10 +414,10 @@ ul {
     right: 0;
     width: 100%;
     height: 100%;
-    background: #ff8c05;
-    background: -moz-linear-gradient(-45deg, #ff8c05 0%, #d61a5e 100%);
-    background: -webkit-linear-gradient(-45deg, #ff8c05 0%, #d61a5e 100%);
-    background: linear-gradient(135deg, #ff8c05 0%, #d61a5e 100%);
+    background: #BFF035;
+    background: -moz-linear-gradient(-45deg, #BFF035 0%, #FF1E4A 100%);
+    background: -webkit-linear-gradient(-45deg, #BFF035 0%, #FF1E4A 100%);
+    background: linear-gradient(135deg, #BFF035 0%, #FF1E4A 100%);
     animation: titles 500ms cubic-bezier(0.45, 0.81, 0.83, 0.18) forwards;
     transform: translateY(101%);
     animation-delay: .5s;
